@@ -1,4 +1,11 @@
 1-)O que é um repositório?
+Repositório é tipo um armazem só que de dados, ficam todos armazenados la.
 2-)Qual a diferença entre Git e GitHub?
+O git é uma ferramenta, ja o GitHub é um lugar para postagens (vitrine).
 3-)Porque utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
+Porque, se algo acontecer com os códigos do seu projeto, vc pode retornar para a versão do código que funcionava.
 4-)Quais vantagens você enxerga no Git?Você utilizaria em seu projeto?
+A vantagem é que, postando as programações no GitHub atraves do Git vc não perde os códigos, ficam armazenados na nuvem. Sim eu utilizaria em meu projeto, pois é mais facil para guardar os códigos do projeto.
+
+
+
